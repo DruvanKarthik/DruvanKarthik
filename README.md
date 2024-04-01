@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, Pyhton,C,C++,Javascript,HTML,CSS,
 - 💞️ I’m looking to collaborate on new data anlysis and embeded system design.
 - 📫 How to reach me -- mail: karekedruvankarthik@gmail.com  insta: druv.an_karthik
-- 😄 Pronouns: He?Him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
